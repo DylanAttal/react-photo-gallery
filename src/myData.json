@@ -1,0 +1,44 @@
+{
+  "thanksgiving": {
+    "title": "Thanksgiving Dishes",
+    "description": "Traditional food to be enjoyed by the whole family on Thanksgiving.",
+    "photos": [
+      {
+        "title": "Turkey",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/10/12/0/FNM-110111_Neelys-Thanksgiving-041a_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540828991.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/patrick-and-gina-neely/oven-roasted-turkey-recipe-1973646"
+      },
+      {
+        "title": "Stuffing",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/10/2/Thanksgiving-2011_SH1411-three-br-stuffing_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540855294.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/sandra-lee/three-bread-stuffing-recipe-1922604"
+      },
+      {
+        "title": "Green Bean Casserole",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/3/2/0/WU0207H_green-bean-casserole_s4x3.jpg.rend.hgtvcom.826.620.suffix/1402583158208.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/ree-drummond/green-bean-casserole-recipe-2042535"
+      }
+    ]
+  },
+  "christmas": {
+    "title": "Christmas Dishes",
+    "description": "Warm up the whole family with these delicious Christmas dishes!",
+    "photos": [
+      {
+        "title": "Honey Glazed Ham",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/4/19/0/VB0511H_Honey-Mustard-Glazed-Ham_s4x3.jpg.rend.hgtvcom.826.620.suffix/1492630160143.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/valerie-bertinelli/honey-mustard-glazed-ham-3703711"
+      },
+      {
+        "title": "Mashed Potatoes",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/9/3/0/mashedpotatoes_s4x3.jpg.rend.hgtvcom.826.620.suffix/1384541148269.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/tyler-florence/mashed-potatoes-recipe-1943035"
+      },
+      {
+        "title": "Baked Brie",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/8/12/0/FN-Thanksgiving-2010_Brie_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371593427841.jpeg",
+        "imageSource": "https://www.foodnetwork.com/recipes/paula-deen/brie-en-croute-recipe-1940420"
+      }
+    ]
+  }
+}

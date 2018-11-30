@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
 import template from './template.json'
+import myData from './myData.json'
 import CategoryList from './CategoryList'
 
 const PhotoList = props => {
@@ -8,7 +9,7 @@ const PhotoList = props => {
   console.log(props.match.params.category)
   return (
     <div>
-      {template[props.match.params.category].photos.map((photo, index) => {
+      {myData[props.match.params.category].photos.map((photo, index) => {
         return (
           <div key={index}>
             <Link to={`/${props.match.params.category}/${index}`}>
