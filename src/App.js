@@ -14,9 +14,13 @@ class App extends Component {
       <Router>
         <main>
           <header>
-            <Link to={'/'}>
+            <Link
+              to={'/'}
+              style={{ textDecoration: 'none', color: 'darkblue' }}
+            >
               <h1>Photo Gallery</h1>
             </Link>
+            <p>Intended to Make You Hungry</p>
           </header>
           <Route path="/" exact component={CategoryList} />
           <Route path="/:category" exact component={PhotoList} />

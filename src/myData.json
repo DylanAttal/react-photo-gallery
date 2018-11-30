@@ -4,12 +4,12 @@
     "description": "Traditional food to be enjoyed by the whole family on Thanksgiving.",
     "photos": [
       {
-        "title": "Turkey",
+        "title": "Oven-Roasted Turkey",
         "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/10/12/0/FNM-110111_Neelys-Thanksgiving-041a_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540828991.jpeg",
         "sourceURL": "https://www.foodnetwork.com/recipes/patrick-and-gina-neely/oven-roasted-turkey-recipe-1973646"
       },
       {
-        "title": "Stuffing",
+        "title": "Three-Bread Stuffing",
         "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/10/2/Thanksgiving-2011_SH1411-three-br-stuffing_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540855294.jpeg",
         "sourceURL": "https://www.foodnetwork.com/recipes/sandra-lee/three-bread-stuffing-recipe-1922604"
       },
@@ -17,6 +17,26 @@
         "title": "Green Bean Casserole",
         "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/3/2/0/WU0207H_green-bean-casserole_s4x3.jpg.rend.hgtvcom.826.620.suffix/1402583158208.jpeg",
         "sourceURL": "https://www.foodnetwork.com/recipes/ree-drummond/green-bean-casserole-recipe-2042535"
+      },
+      {
+        "title": "Cranberry-Serrano Relish",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/10/2/0/FNM_110112-All-Star-Cranberry-Sauce-4_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541969612.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/bobby-flay/cranberry-serrano-relish-recipe-2109232"
+      },
+      {
+        "title": "Pan Roasted Brussels Sprouts with Bacon",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/12/22/0/RE0304_Brussel-Sprouts-with-Bacon.jpg.rend.hgtvcom.826.620.suffix/1383016526876.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/sunny-anderson/pan-roasted-brussels-sprouts-with-bacon-recipe-1944571"
+      },
+      {
+        "title": "Sweet Potato Casserole",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Sweet-Potato-Casserole_s4x3.jpg.rend.hgtvcom.826.620.suffix/1460503592924.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945"
+      },
+      {
+        "title": "Creamed Corn",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/5/5/1/FNM_060115-Creamed-Corn-Recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1431622379685.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/creamed-corn-3364069"
       }
     ]
   },
@@ -38,6 +58,21 @@
         "title": "Baked Brie",
         "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/8/12/0/FN-Thanksgiving-2010_Brie_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371593427841.jpeg",
         "imageSource": "https://www.foodnetwork.com/recipes/paula-deen/brie-en-croute-recipe-1940420"
+      },
+      {
+        "title": "Scalloped Potatoes Au Gratin",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/12/12/0/FN_Ellie-Krieger-scalloped-potatoes-au-gratin_s4x3.jpg.rend.hgtvcom.826.620.suffix/1491580523898.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/ellie-krieger/scalloped-potatoes-au-gratin-recipe-2009583"
+      },
+      {
+        "title": "Gingerbread Cookies",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/11/5/0/12-days-of-cookies-2009_alex-gingerbread_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397700405926.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/alexandra-guarnaschelli/gingerbread-cookies-for-the-holidays-recipe-2012392"
+      },
+      {
+        "title": "Buche de Noel",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/1/5/0/SS1C06_Buche-de-Noel.jpg.rend.hgtvcom.826.620.suffix/1431770133565.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/buche-de-noel-recipe-2117923"
       }
     ]
   }

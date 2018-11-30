@@ -10,13 +10,40 @@ import PhotoDetails from './PhotoDetails'
 const CategoryList = props => {
   return (
     <div>
-      {Object.keys(myData).map(category => {
-        return (
-          <h3 key={category}>
-            <Link to={`/${category}`}>{myData[category].title}</Link>
-          </h3>
-        )
-      })}
+      <div className="breadcrumb-navigation">
+        <ul>
+          <Link
+            to={'/'}
+            style={{
+              textDecoration: 'none',
+              listStyle: 'none',
+              color: 'darkblue'
+            }}
+          >
+            <li>Home</li>
+          </Link>
+        </ul>
+      </div>
+      <div>
+        <div className="category-list">
+          {Object.keys(myData).map(category => {
+            return (
+              <div className="preview">
+                <h2 key={category}>
+                  <Link
+                    to={`/${category}`}
+                    style={{ textDecoration: 'none', color: 'darkblue' }}
+                  >
+                    {myData[category].title}
+                  </Link>
+                </h2>
+                <p>{myData[category].description}</p>
+                <img src={myData[category].photos[0].imageURL} />
+              </div>
+            )
+          })}
+        </div>
+      </div>
     </div>
   )
 }

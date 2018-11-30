@@ -17,3 +17,42 @@ img {
   height: 200px;
   width: auto;
 }
+
+header {
+  text-align: left;
+  line-height: 0.5rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+header p {
+  font-weight: bold;
+}
+
+.breadcrumb-navigation {
+  border-bottom: 1px solid black;
+  margin-bottom: 1rem;
+}
+
+li {
+  display: inline-block;
+  margin-right: 1.5rem;
+}
+
+.category-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.preview {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70vw;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
