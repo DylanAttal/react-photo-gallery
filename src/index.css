@@ -18,6 +18,11 @@ img {
   width: auto;
 }
 
+.big-image {
+  height: 400px;
+  width: auto;
+}
+
 header {
   text-align: left;
   line-height: 0.5rem;
