@@ -33,7 +33,7 @@ const PhotoList = props => {
           </Link>
         </ul>
       </div>
-      <div>
+      <div className="photo-list">
         {myData[props.match.params.category].photos.map((photo, index) => {
           return (
             <div key={index}>

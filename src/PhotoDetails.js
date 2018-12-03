@@ -46,7 +46,7 @@ const PhotoDetails = props => {
           </Link>
         </ul>
       </div>
-      <div>
+      <div className="details">
         <h3>
           {
             myData[props.match.params.category].photos[props.match.params.id]

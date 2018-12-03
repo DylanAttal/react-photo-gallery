@@ -14,12 +14,12 @@ code {
 }
 
 img {
-  height: 200px;
+  height: 300px;
   width: auto;
 }
 
 .big-image {
-  height: 400px;
+  height: 500px;
   width: auto;
 }
 
@@ -39,9 +39,34 @@ header p {
   margin-bottom: 1rem;
 }
 
+ul {
+  padding-left: 1rem;
+}
+
 li {
   display: inline-block;
   margin-right: 1.5rem;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+.photo-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .category-list {
@@ -57,7 +82,7 @@ li {
   justify-content: center;
   align-items: center;
   width: 70vw;
-  border: 2px solid black;
-  border-radius: 5px;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid black;
   margin-bottom: 1rem;
 }
