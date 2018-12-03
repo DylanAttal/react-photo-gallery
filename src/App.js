@@ -18,9 +18,9 @@ class App extends Component {
               to={'/'}
               style={{ textDecoration: 'none', color: 'darkblue' }}
             >
-              <h1>Photo Gallery</h1>
+              <h1>Classic Holiday Dishes</h1>
             </Link>
-            <p>Intended to Make You Hungry</p>
+            <p>A Photo Gallery Intended to Make You Hungry</p>
           </header>
           <Route path="/" exact component={CategoryList} />
           <Route path="/:category" exact component={PhotoList} />

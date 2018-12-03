@@ -22,7 +22,7 @@ const PhotoList = props => {
             <li>Home</li>
           </Link>
           <Link
-            to={`/:category`}
+            to={`/:${myData[props.match.params.category]}`}
             style={{
               textDecoration: 'none',
               listStyle: 'none',

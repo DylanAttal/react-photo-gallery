@@ -42,7 +42,7 @@
   },
   "christmas": {
     "title": "Christmas Dishes",
-    "description": "Warm up the whole family with these delicious Christmas dishes!",
+    "description": "Warm up the whole family with these delicious Christmas dishes.",
     "photos": [
       {
         "title": "Honey Glazed Ham",
@@ -73,6 +73,47 @@
         "title": "Buche de Noel",
         "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/1/5/0/SS1C06_Buche-de-Noel.jpg.rend.hgtvcom.826.620.suffix/1431770133565.jpeg",
         "sourceURL": "https://www.foodnetwork.com/recipes/buche-de-noel-recipe-2117923"
+      }
+    ]
+  },
+  "fourth-of-july": {
+    "title": "Fourth of July",
+    "description": "All-American classics guaranteed to make the whole family smile.",
+    "photos": [
+      {
+        "title": "Juicy Grilled Cheeseburgers",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/10/26/0/FNK_Healthy-Juicy-Grilled-Cheeseburgers_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371611669852.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/food-network-kitchen/juicy-grilled-cheeseburgers-recipe-2120370"
+      },
+      {
+        "title": "Chili Dogs",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2006/10/20/0/tu0212_dogs2.jpg.rend.hgtvcom.826.620.suffix/1371584101307.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/tyler-florence/chili-dogs-recipe-1946339"
+      },
+      {
+        "title": "Potato Salad",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2006/9/22/0/ig0707_potato_salad1.jpg.rend.hgtvcom.826.620.suffix/1428086524917.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/ina-garten/potato-salad-recipe-1917182"
+      },
+      {
+        "title": "Deviled Eggs",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2004/5/19/0/sh1b04_deviled_eggs1.jpg.rend.hgtvcom.826.620.suffix/1382538414386.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/sandra-lee/deviled-eggs-recipe-1942616"
+      },
+      {
+        "title": "Grilled Baby Back Ribs",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/7/25/0/FNM_090117-Grilled-Baby-Back-Ribs_s4x3.jpg.rend.hgtvcom.826.620.suffix/1501040987281.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/food-network-kitchen/grilled-baby-back-ribs-3812069"
+      },
+      {
+        "title": "Sweet and Spicy Coleslaw",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/29/0/FNM_100111-All-Star-Tailgating-009-0_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371599830780.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/patrick-and-gina-neely/sweet-and-spicy-coleslaw-recipe-1973825"
+      },
+      {
+        "title": "Smoked Apple Cobbler",
+        "imageURL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/6/26/0/FNK_SMOKED-APPLE-COBBLER-H_s4x3.jpg.rend.hgtvcom.826.620.suffix/1530039846357.jpeg",
+        "sourceURL": "https://www.foodnetwork.com/recipes/food-network-kitchen/smoked-apple-cobbler-5293683"
       }
     ]
   }
