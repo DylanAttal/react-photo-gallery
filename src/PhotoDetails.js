@@ -1,9 +1,11 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
-import template from './template'
 import myData from './myData.json'
 
 const PhotoDetails = props => {
+  if (!myData[props.match.params.category].photos[props.match.params.id]) {
+    return <h2 className="not-found">Page not found</h2>
+  }
   return (
     <div>
       <div className="breadcrumb-navigation">

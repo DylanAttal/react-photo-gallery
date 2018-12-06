@@ -1,11 +1,7 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
 
-import template from './template.json'
 import myData from './myData.json'
-
-import PhotoList from './PhotoList'
-import PhotoDetails from './PhotoDetails'
 
 const CategoryList = props => {
   return (

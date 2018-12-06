@@ -1,12 +1,9 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
-import logo from './logo.svg'
-import template from './template.json'
 import './App.css'
 import CategoryList from './CategoryList'
 import PhotoList from './PhotoList'
 import PhotoDetails from './PhotoDetails'
-import myData from './myData.json'
 
 class App extends Component {
   render() {

@@ -48,6 +48,10 @@ li {
   margin-right: 1.5rem;
 }
 
+.not-found {
+  padding-left: 1rem;
+}
+
 h2 {
   margin-bottom: 0;
 }
