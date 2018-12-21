@@ -1,44 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Photo-Gallery
 
-## Available Scripts
+<p align="center">
+<img src="src/giphy-react-photo-gallery.gif">
+<p>
 
-In the project directory, you can run:
+### See it live
 
-### `npm start`
+https://react-photo-gallery-dylanattal.surge.sh/
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Summary
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+This was my first project using React Router. This was also my first time making a Single Page Application. Making this photo gallery as an SPA worked well with React Router because I just changed the view on the page by rendering different components based on the URL path. This preserves the user's expectations of what changing pages should look like without having to actually load different pages.
 
-### `npm test`
+I'm proud of adding breadcrumb navigation to the app. I was able to create these `Link`s dynamically by accessing the params that were passed through Router. Also, I added an `if` statement to the `PhotoList` and `PhotoDetails` components to display a 404 page if a user inputs a path into the URL that my app does not support.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+I was given a JSON object to complete this project with. It had a few pictures of pandas and miniature sculptures in it. After getting React Router to work, I decided to make my own JSON object with original data. I made this project right after Thanksgiving... so my mind was on food. I decided to make a photo gallery full of classic American holiday dishes!
 
-### `npm run build`
+### Project Goals
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [x] Create an app where users can select categories to display lists of pictures, then can select a picture from that list
+- [x] Use React Router to make a Single Page Application
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+### Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+HTML, CSS, Javascript, React, React Router
